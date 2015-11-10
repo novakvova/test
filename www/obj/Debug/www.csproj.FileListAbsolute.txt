@@ -1,1 +1,6 @@
 C:\WebServers\home\test.loc\www\www\bin\Debug\www.exe.config
+C:\WebServers\home\test.loc\www\www\bin\Debug\www.exe
+C:\WebServers\home\test.loc\www\www\bin\Debug\www.pdb
+C:\WebServers\home\test.loc\www\www\obj\Debug\www.csprojResolveAssemblyReference.cache
+C:\WebServers\home\test.loc\www\www\obj\Debug\www.exe
+C:\WebServers\home\test.loc\www\www\obj\Debug\www.pdb
